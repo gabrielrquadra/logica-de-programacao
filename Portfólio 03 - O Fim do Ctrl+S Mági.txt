@@ -1,0 +1,5 @@
+Portfólio 03 - O Fim do "Ctrl+S" Mágico - Por que só salvar não basta?
+
+O grande erro de só salvar é que você vai substituindo o arquivo e apagando o passado sem perceber. O salvamento comum é imediato e destrutivo, então quando o menu quebrou, você não tinha uma versão anterior pra comparar e acabou ficando sem uma saida pra recuperar o que estava certo antes
+
+Se você tivesse usado commits em um repositório, teria marcos de segurança pra cada etapa do código. Isso te daria a vantagem de comparar as versões pra achar o erro na hora e tambem a facilidade de restaurar o site pro momento exato em que tudo funcionava sem perder as 4 horas de esforrço que você teve no dia.

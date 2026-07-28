@@ -1,0 +1,7 @@
+Portfolio 01 /O Caos do Arquivo Final - Sobrevivendo ao Trabalho em Grupo
+
+Relato: Houve um caso em 2025 em um trabalho de historia onde recebemos um arquivo base e eu e outro colega editamos porem eu fiz edições diferentes doque a dele e so não terminei porque pensei que a versão dele estava mais avançada se eu trabalhasse com a versão dele do começo e tivesse uma gerenciacao dessas versões esses problemas não iriam ocorrer.
+
+Conexão com a aula: Esse ocorrido me ensinou que o conflito é algo natural da colaboração, porem com o versionamente apropriado e bem executado esses conflitos não são necessários e são facilmente reversíveis. 
+
+Pois é a única maneira de tornar erros e problemas facilmente reversíveis e gerenciar o que cada trabalhador fez e contribuiu para um projeto.
